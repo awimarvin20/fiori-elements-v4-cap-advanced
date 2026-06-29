@@ -131,7 +131,8 @@
                             "entitySet": "Travel",
                             "controlConfiguration": {
                                 "@com.sap.vocabularies.UI.v1.SelectionFields": {
-                                    "useSemanticDateRange": true
+                                    "useSemanticDateRange": true,
+                                    "showClearButton": true
                                 }
                             },
                             "variantManagement": "Page",
